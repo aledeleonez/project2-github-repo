@@ -34,7 +34,7 @@ function click(){
         tarjeta[i].addEventListener('click' ,()=>{
 
             frente[i].classList.add('girar')
-           const tarjetaGirada = document.querySelectorAll('.girar')
+            const tarjetaGirada = document.querySelectorAll('.girar')
 
             if(tarjetaGirada.length == 2){
 
