@@ -3,6 +3,11 @@ Project #2: Second programming project Ironhack Coding for the Industry
 
 He elegido realizar la opción 2. He programado un juego de cartas de memoria con HTML, CSS y JS vanilla.
 
+# Video presentando mi proyecto en Loom Parte 1:
+https://www.loom.com/share/d212dcc6cc6c42d688acc276f472658c
+# Parte 2:
+https://www.loom.com/share/5b31222b317d42fcb39600ae915bb12b
+
 2) A game project. This approach also uses DOM manipulation but includes heavier logic implementation and more programming. If you choose this approach, the webpage must:
 
 Have minimum one HTML page.
